@@ -18,7 +18,7 @@ npm install exorun-api
 
 # Issues
 
-For problems directly related to the CLI, [add an issue on GitHub](https://github.com/exorunltd/exorunk-api/issues/new).
+For problems directly related to the CLI, [add an issue on GitHub](https://github.com/exorunltd/exorun-api/issues/new).
 
 [Contributors](https://github.com/exorunltd/exorun-api/contributors)
 
