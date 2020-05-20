@@ -1,6 +1,6 @@
 # Exorun API
 
-![Exorun logo](https://avatars0.githubusercontent.com/u/65603591?s=200&v=4)
+![Exorun logo](https://avatars0.githubusercontent.com/u/65603591?s=200&v=3)
 
 [![Build Status](https://travis-ci.com/exorunkio/exorun-api.svg?branch=master)](https://travis-ci.com/exorun/exorun-api)
 ![npm](https://img.shields.io/npm/v/exorunk-api)
