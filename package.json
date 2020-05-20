@@ -1,0 +1,14 @@
+{
+  "name": "exorun-api",
+  "version": "1.0.0",
+  "description": "A library to interact with Exorun",
+  "main": "lib/Exorun.js",
+  "homepage": "http://exorun.io",
+  "repository": "git://github.com/exorun/exorun-api.git",
+  "author": "Kenneth <kenneth@exorun.io>",
+  "license": "ISC",
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  }
+}
